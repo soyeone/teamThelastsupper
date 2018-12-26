@@ -91,11 +91,11 @@ Characters(to be..)
 @snap[north-east template-note text-20 text-orange text-bold]
 연말계획
 @snaped
-@snap[north-east template-note text-10 text-orange text-bold]
+@snap[east template-note text-10 text-orange text-bold]
 나의 12월 31일
 @snaped
 
-@snap[west text-10 span-100 text-gray]
+@snap[west text-08 text-bold text-gray]
 조신성 : 제야의 종<br/>
 타종 행사 보러 보신각 갈예정 :)<br/>
 김소연 : 일출 보러가기 <br/>
@@ -103,14 +103,3 @@ Characters(to be..)
 박성하 : 졸업 논문 제출 <br/>
 @snapend
 
----
-
-## 연말계획
-#### 나의 12월 31일
-조신성 : 제야의 종 
-타종 행사 보러 보신각 갈예정 :)<br/>
-김소연 : 일출 보러가기 <br/>
-위영웅 : 집 지키기 <br/>
-박성하 : 졸업 논문 제출 <br/>
-
----
