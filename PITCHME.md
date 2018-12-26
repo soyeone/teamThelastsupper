@@ -22,7 +22,7 @@
 내.별.소
 @snapend
 
-@snap[east text-2 text-bold text-gray span-100]
+@snap[east text-08 text-bold text-gray span-100]
 조신성 aka Nustar<br/>  
 김소연 aka So Ye One!<br/>  
 위영웅 aka HERO WE<br/>  
@@ -50,7 +50,7 @@ First<br/>Impression!
 @ulend
 @snapend
 
-@snap[south-west text-2 template-note text-gray]
+@snap[south-west text-10 template-note text-gray]
 우리의 첫 인상은 어땠나요?
 @snapend
 
@@ -58,11 +58,11 @@ First<br/>Impression!
 +++
 @title[Heading + List Body]
 
-@snap[east span-100 text-30 text-bold text-green]
+@snap[east span-100 text-20 text-bold text-green]
 Characters(to be..)
 @snapend
 
-@snap[west text-02 text-black]
+@snap[west text-08 text-black]
 조신성 : 꼼꼼함 ->  *넘모 덜렁댐*<br/>  
 김소연 : 성실함 -> *성실하지 못해 ㅎㅎ*<br/>  
 위영웅 : 활발함 -> *오빠는 조용한 사람*<br/>  
