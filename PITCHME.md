@@ -104,7 +104,6 @@ Characters(to be..)
 박성하 : 졸업 논문 제출 <br/><br/>
 @snapend
 ---
----
 ## START CAMP 아이디어톤
 ---
 ## 공감(Empathize)
