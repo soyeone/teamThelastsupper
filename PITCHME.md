@@ -55,11 +55,14 @@ First<br/>Impression!
 @snapend
 
 
-+++?image=template/img/bg/black.jpg&position=right&size=50% 100%
++++
 @title[Text + Image]
-
-@snap[east span-40 text-11 text-white]
-Lorem ipsum sit dolor amet, consectetur elit.
+## Characters(to be..)
+@snap[east span-100 text-11 text-black]
+조신성 : 꼼꼼함 ->  *넘모 덜렁댐*<br/>  
+김소연 : 성실함 -> *성실하지 못해 ㅎㅎ*<br/>  
+위영웅 : 활발함 -> *오빠는 조용한 사람*<br/>  
+박성하 : 부지런함 -> *난 게을러* 
 @snapend
 
 @snap[west]
