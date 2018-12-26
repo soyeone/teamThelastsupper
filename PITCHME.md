@@ -77,7 +77,7 @@ Characters(to be..)
 +++?image=https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg&position=left&size=100% 100%
 @title[Heading + List Body]
 
-@snap[north-east span-100 text-20 text-bold text-red]
+@snap[north-east span-100 text-20 text-bold text-yellow]
 우리의 모습.
 @snapend
 
