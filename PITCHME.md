@@ -82,7 +82,7 @@ Characters(to be..)
 @snapend
 
 @snap[east fragment]
-@img[split-screen-img span-55](template/img/developer.jpg)
+![Team](https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg "최후의 만찬")
 @snapend
 
 @snap[south-west template-note text-gray]
