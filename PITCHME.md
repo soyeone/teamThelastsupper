@@ -77,13 +77,11 @@ Characters(to be..)
 +++
 @title[Heading + List Body]
 
-@snap[west span-40 text-11 text-blue text-bold]
+@snap[north-west span-40 text-11 text-blue text-bold]
 우리의 모습.
 @snapend
 
-@snap[east fragment]
 ![Team](https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg "최후의 만찬")
-@snapend
 
 @snap[south-west template-note text-gray]
 Split-screen text and image-fragment template.
