@@ -35,7 +35,7 @@
 ---
 
 ### 우리의 모습
-![Team](https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg "최후의 만찬"){: width="100" height="100"}
+![Team](https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg "최후의 만찬")<img width="100" height="100"></img>
 
 ---
 
