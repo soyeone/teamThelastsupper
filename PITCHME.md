@@ -1,7 +1,7 @@
 ---?image=template/img/pencils.jpg
 @title[Split-Screen Templates]
 
-## @color[black](최후의 만찬<br> The Last Supper)
+## @color[indipink](최후의 만찬<br> The Last Supper)
 
 @fa[arrow-down text-black]
 
