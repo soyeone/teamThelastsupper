@@ -36,11 +36,13 @@ https://gitpitch.com/docs/the-template/slide-designs/#sidebar-slide-templates
 ---
 
 ### 우리의 모습
-![Team](https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg "최후의 만찬")<img width="100" height="100"></img>
-
+<img src=![Team]"https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg" alt="최후의 만찬" width="600px">
 ---
 
 ## 연말계획
 #### 나의 12월 31일
 조신성 : 제야의 종<br/>
 타종 행사 보러 보신각 갈예정입니다 :)<br/>
+김소연 :
+위영웅 :
+박성하 :
