@@ -31,19 +31,19 @@
 @snapend
 
 
-+++?image=template/img/bg/pink.jpg&position=left&size=70% 100%
++++
 @title[Heading + List Body]
 
 @snap[east text-17 text-bold text-pink span-50]
-Top<br>Tips!
+First    <br/>Impression!
 @snapend
 
-@snap[west text-white span-65]
+@snap[west text-gray span-65]
 @ul[split-screen-list text-08](false)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+- 조신성 : 잘 웃는다 ^-^
+- 김소연 : 귀엽다 >_<
+- 위영웅 : 스티브잡스 +_+
+- 박성하 : 존박 "_"
 @ulend
 @snapend
 
