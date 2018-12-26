@@ -58,11 +58,11 @@ First<br/>Impression!
 +++
 @title[Heading + List Body]
 
-@snap[east span-100 text-10 text-black]
+@snap[east span-100 text-16 text-green]
 Characters(to be..)
 @snapend
 
-@snap[west]
+@snap[west text-2 text-black]
 조신성 : 꼼꼼함 ->  *넘모 덜렁댐*<br/>  
 김소연 : 성실함 -> *성실하지 못해 ㅎㅎ*<br/>  
 위영웅 : 활발함 -> *오빠는 조용한 사람*<br/>  
