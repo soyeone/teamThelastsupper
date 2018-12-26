@@ -13,9 +13,19 @@
 +++
 @title[Heading + List Body]
 
-@snap[west text-16 text-bold text-italic text-orange span-50]
-내별소(내 별명을 소개합니다)
+@snap[west text-16 text-bold text-orange span-20]
+내별소<br/>
+(내 별명을 소개합니다)
 @snapend
+
+@snap[west text-16 text-bold text-grey span-20]
+☞ 조신성 aka Nustar  
+☞ 김소연 aka So Ye One!  
+☞ 위영웅 aka HERO WE  
+☞ 박성하 aka Summer Star  
+☞ 김종찬 aka 퇴사  
+@snapend
+
 
 @snap[east text-white span-45]
 @ol[split-screen-list text-08](false)
