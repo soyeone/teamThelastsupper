@@ -36,7 +36,7 @@ https://gitpitch.com/docs/the-template/slide-designs/#sidebar-slide-templates
 ---
 
 ### 우리의 모습
-<img src=![Team]"https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg" alt="최후의 만찬" width="600px">
+<img src=![Team]"https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg" alt="최후의 만찬" width="600px"></img>
 ---
 
 ## 연말계획
