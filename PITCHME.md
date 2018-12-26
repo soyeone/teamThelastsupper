@@ -85,15 +85,18 @@ Characters(to be..)
 ![Team](https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg "최후의 만찬")
 @snapend
 
-+++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
++++
 @title[Text + Image Centered]
 
-@snap[midpoint]
-@img[split-screen-img span-55](template/img/developer.jpg)
-@snapend
+@snap[north-east template-note text-black text-bold]
+연말계획
 
-@snap[west span-35]
-Lorem ipsum<br>sit dolor amet, consectetur elit.
+@snap[east span-35]
+조신성 : 제야의 종 
+타종 행사 보러 보신각 갈예정 :)<br/>
+김소연 : 일출 보러가기 <br/>
+위영웅 : 집 지키기 <br/>
+박성하 : 졸업 논문 제출 <br/>
 @snapend
 
 @snap[south-west template-note text-gray]
