@@ -74,18 +74,18 @@ Characters(to be..)
 @snapend
 
 
-+++?image=template/img/bg/green.jpg&position=left&size=50% 100%
-@title[Text + Image Fragment]
++++
+@title[Heading + List Body]
 
-@snap[west span-40 text-11 text-white]
-Lorem ipsum sit dolor amet, consectetur elit.
+@snap[west span-40 text-11 text-blue text-bold]
+우리의 모습.
 @snapend
 
 @snap[east fragment]
 @img[split-screen-img span-55](template/img/developer.jpg)
 @snapend
 
-@snap[south-west template-note text-white]
+@snap[south-west template-note text-gray]
 Split-screen text and image-fragment template.
 @snapend
 
@@ -98,7 +98,7 @@ Lorem ipsum<br>sit dolor amet, consectetur elit.
 @snapend
 
 @snap[midpoint]
-@img[split-screen-img span-55](template/img/developer.jpg)
+![Team](https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg "최후의 만찬")
 @snapend
 
 @snap[east span-30 text-08 text-center text-black]
