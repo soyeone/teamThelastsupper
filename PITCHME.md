@@ -43,6 +43,6 @@ https://gitpitch.com/docs/the-template/slide-designs/#sidebar-slide-templates
 #### 나의 12월 31일
 조신성 : 제야의 종<br/>
 타종 행사 보러 보신각 갈예정입니다 :)<br/>
-김소연 :
-위영웅 :
-박성하 :
+김소연 : 일출 보러가기 <br/>
+위영웅 : 집 지키기 <br/>
+박성하 : 졸업 논문 제출 <br/>
