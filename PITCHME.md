@@ -1,7 +1,7 @@
----?image=template/img/pencils.jpg
+---?![Team](https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg "최후의 만찬")
 @title[Split-Screen Templates]
 
-## @color[indipink](최후의 만찬<br> The Last Supper)
+## @color[black](최후의 만찬<br> The Last Supper)
 
 @fa[arrow-down text-black]
 
