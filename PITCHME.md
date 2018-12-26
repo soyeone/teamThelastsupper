@@ -38,7 +38,7 @@
 First<br/>Impression!
 @snapend
 
-@snap[west text-gray span-65]
+@snap[west text-black span-65]
 @ul[split-screen-list text-08](false)
 - 조신성 : 잘 웃는다 ^-^
 <br/>
@@ -50,7 +50,7 @@ First<br/>Impression!
 @ulend
 @snapend
 
-@snap[south-west template-note text-black]
+@snap[south-west text-2 template-note text-gray]
 우리의 첫 인상은 어땠나요?
 @snapend
 
