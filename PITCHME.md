@@ -98,7 +98,7 @@ Characters(to be..)
 
 @snap[west text-08 text-gray text-bold span-50]
 조신성 : 제야의 종<br/>
-타종 행사 보러 보신각 갈예정 :)<br/>
+타종 행사 보러 보신각 갈예정 :)<br/><br/>
 김소연 : 일출 보러가기 <br/><br/>
 위영웅 : 집 지키기 <br/><br/>
 박성하 : 졸업 논문 제출 <br/><br/>
