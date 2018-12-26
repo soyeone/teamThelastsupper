@@ -16,7 +16,7 @@
 
 ---
 
-# First Impression
+## First Impression
 
 	☆ 조신성 : 잘 웃는다
 	☆ 김소연 : 귀엽다
