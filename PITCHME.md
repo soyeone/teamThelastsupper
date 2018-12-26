@@ -74,7 +74,7 @@ Characters(to be..)
 @snapend
 
 
-+++
++++?image=https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg&position=left&size=50% 100%
 @title[Heading + List Body]
 
 @snap[north-west span-40 text-11 text-blue text-bold]
