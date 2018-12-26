@@ -96,7 +96,7 @@ Characters(to be..)
 (나의 12월 31일)
 @snaped
 
-@snap[west text-08 text-gray text-bold span-50]
+@snap[north-west text-08 text-gray text-bold span-50]
 조신성 : 제야의 종<br/>
 타종 행사 보러 보신각 갈예정 :)<br/>
 김소연 : 일출 보러가기 <br/>
