@@ -1,3 +1,4 @@
+https://gitpitch.com/docs/the-template/slide-designs/#sidebar-slide-templates
 
 # 최후의 만찬
 
