@@ -91,7 +91,8 @@ Characters(to be..)
 @snap[north-east template-note text-20 text-orange text-bold]
 연말계획
 @snaped
-@snap[east template-note text-10 text-orange text-bold]
+
+@snap[east text-10 text-orange text-bold]
 나의 12월 31일
 @snaped
 
