@@ -40,10 +40,10 @@ First    <br/>Impression!
 
 @snap[west text-gray span-65]
 @ul[split-screen-list text-08](false)
-- 조신성 : 잘 웃는다 ^-^
-- 김소연 : 귀엽다 >ㅇ<
-- 위영웅 : 스티브잡스 ☆3☆
-- 박성하 : 존박 ＠ㅡ＠
+- 조신성 : 잘 웃는다 ^-^<br/>
+- 김소연 : 귀엽다 >ㅇ< <br/>
+- 위영웅 : 스티브잡스 ☆3☆<br/>
+- 박성하 : 존박 ＠ㅡ＠<br/>
 @ulend
 @snapend
 
