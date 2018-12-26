@@ -121,16 +121,23 @@ Characters(to be..)
  - 여러 기회나 문제점들을 미리 발견할 수 있음.
 @snapend
 ---
+@snap[west text-08 text-gray text-bold]
 ## 문제정의(Define)
 구체적 아이디어 도출을 위해 찾은 문제점을 추상화하는 단계
+@snapend
 ---
-## 문제정의(Define) - 활용 Tool
+
 @snap[west text-08 text-gray text-bold]
+## 문제정의(Define) - 활용 Tool
 관점서술문: 사용자의 불편함과 이유를 한 문장으로 정리하는 기법. 유저의 니즈를 정확히 하고 해결방향을 제시할 수 있다.
 @snapend
 ---
 ## 아이디어 도출(Ideale)
 제품 제작을 위해 제시된 문제로부터 아이디어를 도출하는 단계
+@snap[west text-08 text-gray text-bold]
+## 아이디어 도출(Ideale)
+제품 제작을 위해 제시된 문제로부터 아이디어를 도출하는 단계
+@snapend
 ---
 ## 아이디어 도출(Ideale) - 활용 Tool
 1.마인드맵 : 문제 해결을 위한 변수를 고려한 확산적 아이디어 도출기법.<br>
