@@ -74,17 +74,10 @@ Characters(to be..)
 @snapend
 
 
-+++?image=https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg&position=left&size=100% 100%
-@title[Heading + List Body]
-
-@snap[north-east span-100 text-20 text-bold text-yellow]
-우리의 모습.
-@snapend
-
 +++?image=template/img/bg/black.jpg&position=left&size=50% 100%
 @title[Text + Image Centered]
 
-@snap[west span-40 text-white]
+@snap[north-weat span-40 text-blue text-20]
 Lorem ipsum<br>sit dolor amet, consectetur elit.
 @snapend
 
@@ -92,21 +85,8 @@ Lorem ipsum<br>sit dolor amet, consectetur elit.
 ![Team](https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg "최후의 만찬")
 @snapend
 
-@snap[east span-30 text-08 text-center text-black]
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-@snapend
-
-@snap[south-west template-note text-white]
-Split-screen text and centered image template.
-@snapend
-
-
 +++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
 @title[Text + Image Centered]
-
-@snap[east span-30 text-08 text-center text-white]
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-@snapend
 
 @snap[midpoint]
 @img[split-screen-img span-55](template/img/developer.jpg)
