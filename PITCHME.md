@@ -77,7 +77,7 @@ Characters(to be..)
 +++?image=template/img/bg/black.jpg&position=left&size=50% 100%
 @title[Text + Image Centered]
 
-@snap[north-west span-60 text-blue text-20]
+@snap[north-west span-60 text-blue text-20 text-bold]
 우리의 모습
 @snapend
 
@@ -99,43 +99,7 @@ Lorem ipsum<br>sit dolor amet, consectetur elit.
 @snap[south-west template-note text-gray]
 Split-screen text and centered image template.
 @snapend
-# 최후의 만찬
 
-대장: 조신성, 부장: 김소연,<hr/>
-과장: 위영웅, 대리: 박성하,<hr/>
-퇴사: 김종찬<hr/>
-
----
-## 내별소(내 별명을 소개합니다)
-	☞ 조신성 aka Nustar
-	☞ 김소연 aka So Ye One!
-	☞ 위영웅 aka HERO WE
-	☞ 박성하 aka Summer Star
-	☞ 김종찬 aka 퇴사
-
-
----
-
-## First Impression
-
-	☆ 조신성 : 잘 웃는다
-	☆ 김소연 : 귀엽다
-	☆ 위영웅 : 스티브잡스
-	☆ 박성하 : 존박
-	
-	
----
-
-## Characters(to be..)
-조신성 : 꼼꼼함 ->  *넘모 덜렁댐*<br/>  
-김소연 : 성실함 -> *성실하지 못해 ㅎㅎ*<br/>  
-위영웅 : 활발함 -> *오빠는 조용한 사람*<br/>  
-박성하 : 부지런함 -> *난 게을러*    
-
----
-
-### 우리의 모습
-![Team](https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg "최후의 만찬")
 ---
 
 ## 연말계획
