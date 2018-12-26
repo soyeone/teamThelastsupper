@@ -1,5 +1,4 @@
-# ChatFlix
-
+# **ChatFlix**
 ## 스펙(Specification)
 1. 영화 순위  검색
 	랭킹이라고 입력시 현재 탑 10위 영화를 나열
