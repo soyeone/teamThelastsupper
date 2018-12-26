@@ -77,7 +77,7 @@ Characters(to be..)
 +++?image=template/img/bg/black.jpg&position=left&size=50% 100%
 @title[Text + Image Centered]
 
-@snap[north-weat span-60 text-blue text-20]
+@snap[north-west span-60 text-blue text-20]
 우리의 모습
 @snapend
 
