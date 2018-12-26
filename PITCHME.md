@@ -35,7 +35,7 @@
 @title[Heading + List Body]
 
 @snap[east text-17 text-bold text-pink span-50]
-First"    "<br/>Impression!
+First<br/>Impression!
 @snapend
 
 @snap[west text-gray span-65]
@@ -50,8 +50,8 @@ First"    "<br/>Impression!
 @ulend
 @snapend
 
-@snap[south-west template-note text-white]
-Split-screen heading and list body template.
+@snap[south-west template-note text-black]
+우리의 첫 인상은 어땠나요?
 @snapend
 
 
