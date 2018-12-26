@@ -77,7 +77,7 @@ Characters(to be..)
 +++?image=template/img/bg/black.jpg&position=left&size=50% 100%
 @title[Text + Image Centered]
 
-@snap[north-west span-60 text-40 text-bold]
+@snap[north-west span-20 text-40 text-blue text-bold]
 우리의 모습
 @snapend
 
@@ -88,10 +88,10 @@ Characters(to be..)
 +++
 @title[Text + Image Centered]
 
-@snap[north-east template-note text-black text-bold]
+@snap[north-east template-note text-20 text-red text-bold]
 연말계획
 
-@snap[west span-100]
+@snap[west span-100 text-gray]
 조신성 : 제야의 종 
 타종 행사 보러 보신각 갈예정 :)<br/>
 김소연 : 일출 보러가기 <br/>
