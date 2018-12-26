@@ -18,21 +18,12 @@
 (내 별명을 소개합니다)
 @snapend
 
-@snap[east text-2 text-bold text-grey span-100]
-☞ 조신성 aka Nustar  
-☞ 김소연 aka So Ye One!  
-☞ 위영웅 aka HERO WE  
-☞ 박성하 aka Summer Star  
-☞ 김종찬 aka 퇴사  
-@snapend
-
-
-@snap[east text-black span-45]
-@ol[split-screen-list text-08](false)
-- olor sit amet, consectetur elit
-- Ut enim ad minim veniam, quis exercitation
-- Duis aute irure dolor in reprehenderit in voluptate
-@olend
+@snap[east text-2 text-bold text-gray span-100]
+조신성 aka Nustar  
+김소연 aka So Ye One!  
+위영웅 aka HERO WE  
+박성하 aka Summer Star  
+김종찬 aka 퇴사  
 @snapend
 
 @snap[south-west template-note text-gray]
