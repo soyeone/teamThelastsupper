@@ -13,14 +13,13 @@
 +++
 @title[Heading + List Body]
 
-@snap[north-west text-16 text-bold text-italic text-orange span-50]
+@snap[west text-16 text-bold text-italic text-orange span-50]
 내별소<br/>
 
 @snapend
 
-@snap[west text-2 text-bold text-italic text-orange span-50]
-(내 별명을<br/>
-소개합니다)
+@snap[south west text-2 text-bold text-italic text-orange span-50]
+(내 별명을 소개합니다)
 @snapend
 
 @snap[east text-2 text-bold text-gray span-100]
@@ -29,10 +28,6 @@
 위영웅 aka HERO WE<br/>  
 박성하 aka Summer Star<br/>  
 김종찬 aka 퇴사  
-@snapend
-
-@snap[south-west template-note text-gray]
-Split-screen heading and list body template.
 @snapend
 
 
