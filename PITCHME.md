@@ -102,5 +102,5 @@ Characters(to be..)
 김소연 : 일출 보러가기 <br/>
 위영웅 : 집 지키기 <br/>
 박성하 : 졸업 논문 제출 <br/>
-@snapend
+@snaped
 ---
