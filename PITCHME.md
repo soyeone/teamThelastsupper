@@ -69,8 +69,8 @@ Characters(to be..)
 박성하 : 부지런함 -> *난 게을러ㅠㅠ* 
 @snapend
 
-@snap[south-west template-note text-gray]
-Split-screen text and image template.
+@snap[south-west template-note text-black]
+이런 성격을 갖고 싶어요!
 @snapend
 
 
