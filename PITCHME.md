@@ -74,14 +74,12 @@ Characters(to be..)
 @snapend
 
 
-+++?image=https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg&position=left&size=50% 100%
++++?image=https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg&position=left&size=100% 100%
 @title[Heading + List Body]
 
 @snap[north-west span-40 text-11 text-blue text-bold]
 우리의 모습.
 @snapend
-
-![Team](https://files.slack.com/files-pri/TESNDFT4J-FF1HLK743/_____________.jpg&position=middle&size=70% 100% "최후의 만찬")
 
 @snap[south-west template-note text-gray]
 Split-screen text and image-fragment template.
