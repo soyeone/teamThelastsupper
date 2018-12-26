@@ -1,16 +1,13 @@
 ---
-![background](https://files.slack.com/files-pri/TESNDFT4J-FF1HV4HMH/pencils.jpg)
 @title[Split-Screen Templates]
 
 ## @color[black](최후의 만찬<br> The Last Supper)
 
 @fa[arrow-down text-black]
 
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
 @snapend
 
-+++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
++++
 @title[Heading + List Body]
 
 @snap[west text-16 text-bold text-italic text-orange span-50]
@@ -19,7 +16,7 @@ Topics to be covered today
 
 @snap[east text-white span-45]
 @ol[split-screen-list text-08](false)
-- Lorem ipsum dolor sit amet, consectetur elit
+- olor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
 - Duis aute irure dolor in reprehenderit in voluptate
 @olend
