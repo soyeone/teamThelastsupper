@@ -13,13 +13,13 @@
 +++
 @title[Heading + List Body]
 
-@snap[west text-16 text-bold text-italic text-orange span-50]
-내별소<br/>
+@snap[west text-2 text-bold text-italic text-orange span-50]
+(내 별명을 소개합니다)<br/>
 
 @snapend
 
-@snap[south west text-2 text-bold text-italic text-orange span-50]
-(내 별명을 소개합니다)
+@snap[south west text-16 text-bold text-italic text-orange span-50]
+내.별.소
 @snapend
 
 @snap[east text-2 text-bold text-gray span-100]
