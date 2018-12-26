@@ -7,6 +7,7 @@
 
 ---
 #### 내별소(내 별명을 소개합니다)
+=============
 	조신성 aka Nustar
 	김소연 aka So Ye One!
 	위영웅 aka HERO WE
