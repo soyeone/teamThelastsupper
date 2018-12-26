@@ -38,19 +38,19 @@
 First<br/>Impression!
 @snapend
 
-@snap[west text-black span-65]
+@snap[west text-bold text-gray span-65]
 @ul[split-screen-list text-08](false)
-- 조신성 : 잘 웃는다 ^-^
+조신성 : 잘 웃는다 ^-^
 <br/>
-- 김소연 : 귀엽다 >ㅇ< <br/>
+김소연 : 귀엽다 >ㅇ< <br/>
 <br/>
-- 위영웅 : 스티브잡스 ☆3☆<br/>
+위영웅 : 스티브잡스 ☆3☆<br/>
 <br/>
-- 박성하 : 존박 ＠ㅡ＠<br/>
+박성하 : 존박 ＠ㅡ＠<br/>
 @ulend
 @snapend
 
-@snap[south-west text-10 template-note text-gray]
+@snap[south-west text-10 template-note text-black]
 우리의 첫 인상은 어땠나요?
 @snapend
 
@@ -62,7 +62,7 @@ First<br/>Impression!
 Characters(to be..)
 @snapend
 
-@snap[west text-08 text-black]
+@snap[west text-08 text-gray text-bold]
 조신성 : 꼼꼼함 ->  *넘모 덜렁댐*<br/>  
 김소연 : 성실함 -> *성실하지 못해 ㅎㅎ*<br/>  
 위영웅 : 활발함 -> *오빠는 조용한 사람*<br/>  
