@@ -1,14 +1,14 @@
 ---
 @title[Split-Screen Templates]
 
-## @color[black](최후의 만찬<br> The Last Supper)
-@snap[center text-5 text-black]
+# @color[black](최후의 만찬<br> The Last Supper)
+@snap[text-5 text-black]
 대장: 조신성, 부장: 김소연,  
 과장: 위영웅, 대리: 박성하,  
 퇴사: 김종찬<br/>  
+@snapend
 @fa[arrow-down text-black]
 
-@snapend
 
 +++
 @title[Heading + List Body]
