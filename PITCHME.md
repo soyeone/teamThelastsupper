@@ -18,7 +18,7 @@
 
 @snapend
 
-@snap[south west text-2 text-bold text-italic text-orange span-50]
+@snap[south-west text-2 text-bold text-italic text-orange span-50]
 (내 별명을 소개합니다)
 @snapend
 
