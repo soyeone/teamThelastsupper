@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "최후의 만찬 (The Last Supper)"
+title                    : "The Last Supper"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "Best Team Ever!"
 url                      : "https://soyeone.github.io"
-baseurl                  : "/tls"
+baseurl                  : "/teamThelastsupper"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
