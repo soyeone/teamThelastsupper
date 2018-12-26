@@ -35,7 +35,7 @@
 @title[Heading + List Body]
 
 @snap[east text-17 text-bold text-pink span-50]
-First    <br/>Impression!
+First"    "<br/>Impression!
 @snapend
 
 @snap[west text-gray span-65]
