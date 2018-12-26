@@ -112,6 +112,7 @@ Characters(to be..)
 
 @snap[west text-06 text-gray text-bold]
 ## 공감(Empathize) - 활용 Tool
+<br/>
  1.공감지도 : 사용자의 시각으로 사용자의 니즈를 파악할 수 있는 기법.<br/>
  - Think & Feel/ See/ Hear/ Say&Do/ Pain/Gain<br><br/>
 2.페르소나 : 가상의 인물을 사용하여 사용자의 니즈를 파악 및 분석하는 기법.<br/>
