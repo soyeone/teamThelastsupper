@@ -40,7 +40,7 @@ First<br/>Impression!
 
 @snap[west text-bold text-gray span-65]
 @ul[split-screen-list text-08](false)
-조신성 : 잘 웃는다 ^-^
+조신성 : 잘 웃는다 ^-^<br/>
 <br/>
 김소연 : 귀엽다 >ㅇ< <br/>
 <br/>
@@ -58,15 +58,15 @@ First<br/>Impression!
 +++
 @title[Heading + List Body]
 
-@snap[east span-100 text-20 text-bold text-green]
+@snap[north-east span-100 text-20 text-bold text-green]
 Characters(to be..)
 @snapend
 
 @snap[west text-08 text-gray text-bold]
-조신성 : 꼼꼼함 ->  *넘모 덜렁댐*<br/>  
-김소연 : 성실함 -> *성실하지 못해 ㅎㅎ*<br/>  
-위영웅 : 활발함 -> *오빠는 조용한 사람*<br/>  
-박성하 : 부지런함 -> *난 게을러* 
+조신성 : 꼼꼼함 ->  *넘모 덜렁대!*<br/>  
+김소연 : 성실함 -> *성실하지 못해!*<br/>  
+위영웅 : 활발함 -> *오빠는 조용한 사람~*<br/>  
+박성하 : 부지런함 -> *난 게을러ㅠㅠ* 
 @snapend
 
 @snap[south-west template-note text-gray]
